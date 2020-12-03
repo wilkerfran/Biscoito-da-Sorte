@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "expoWork",
+    "name": "Cookie",
     "slug": "expoWork",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -8,7 +8,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#fc6b03"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -20,10 +20,8 @@
       "supportsTablet": true
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+      "package": "com.Wilker.CookieLuck",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
